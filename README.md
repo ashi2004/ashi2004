@@ -41,9 +41,11 @@ Always eager to learn, build, and grow! 🌱
 
 | 🚀 Project | Description | Tech Stack |
 |-------------|-------------|-------------|
-| [**CollegeAdda**](https://github.com/ashi2004/CollegeAdda) | A MERN-based social networking platform exclusively for IIT BHU students to connect, share posts, and seek guidance. | MongoDB, Express, React, Node.js |
-| [**Financely**](https://github.com/ashi2004/Financely) | A personal expense tracker that helps users manage and visualize their financial data efficiently. | React, Firebase |
-| [**Rydify**](https://github.com/ashi2004/Rydify_IITBHU) | A two-wheeler and bicycle rental platform for IIT BHU students with smooth admin and user operations. | MERN Stack |
+| [**MindJournalAI**](https://github.com/ashi2004/MindJournalAI) | An AI-powered journaling and mental wellness assistant that helps users express emotions, get mood insights, and track daily thoughts. | MERN Stack, OpenAI API, Tailwind CSS |
+| [**CollegeAdda**](https://github.com/ashi2004/CollegeAdda) | A MERN-based social networking platform for IIT BHU students to connect, share posts, and seek guidance. | MongoDB, Express, React, Node.js |
+| [**Rydify**](https://github.com/ashi2004/QuickPedal_app) | A two-wheeler and bicycle rental system for IIT BHU students with admin and user management features. | MERN Stack |
+| [**Wardrobe360**](https://github.com/ashi2004/Wardrobe360) | A smart outfit recommendation and digital wardrobe management web app that suggests combinations and tracks clothing usage. | React, Node.js, Express, MongoDB |
+
 
 ---
 
